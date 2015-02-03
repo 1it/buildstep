@@ -1,4 +1,4 @@
-FROM progrium/cedarish:cedar14
+FROM dock.cian.ru/cian-image
 MAINTAINER Jeff Lindsay <progrium@gmail.com>
 
 ADD ./stack/configs/etc-profile /etc/profile
