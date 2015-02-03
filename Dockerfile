@@ -1,5 +1,5 @@
 FROM dock.cian.ru/cian-image
-MAINTAINER Jeff Lindsay <progrium@gmail.com>
+MAINTAINER Ivan Tuzhilkin <ivan.tuzhilkin@gmail.com>
 
 ADD ./stack/configs/etc-profile /etc/profile
 
